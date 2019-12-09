@@ -1,5 +1,5 @@
 # TeleBot On PHP
-Simple lib for Telegram bots.
+Simple lib for simple (or not) Telegram bots.
 
 ### How to connect that lib to document?
 In your script just include that file and start class in some var.
