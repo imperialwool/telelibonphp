@@ -1,4 +1,4 @@
-# TeleBot On PHP
+# Telegram Bot On PHP
 Simple lib for simple (or not) Telegram bots.
 
 ### How to connect that lib to document?
