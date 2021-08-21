@@ -13,4 +13,4 @@ $bot = new tgBot('MY TOKEN IS HERE!');
 ### Basics.
 * request('method', ['parametrs' => 'here']) - requesting methods with params.
 * reply($chat, "Text is here!") - replying.
-* Another functions you can see in example.
+* Another functions you can see in example or just look in [lib's Wiki](https://github.com/toxichead/telelibonphp/wiki)!
