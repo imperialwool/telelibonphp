@@ -1,7 +1,7 @@
 <?php
 include 'tgLib.php';
 
-const TOKEN = '995442052:AAHRIMxoAPt_pAc2XD_1rjU3LM8Tv3bVsKw';
+const TOKEN = '995442052:AAHRIMxoAPt_pAc2XD_1rjU3LM8Tv3bVsKw'; //EXAMPLE OF TOKEN, IT DOES NOT WORKS
 $bot = new tgBot(TOKEN);
 $data = json_decode(file_get_contents('php://input'),true);
 if (!$data) die('ok');
